@@ -1,0 +1,31 @@
+S:\2 курс ИСП2131\Мамадов Мубориз\ClassroomBooking\ClassroomBooking\bin\Debug\ClassroomBooking.exe.config
+S:\2 курс ИСП2131\Мамадов Мубориз\ClassroomBooking\ClassroomBooking\bin\Debug\ClassroomBooking.exe
+S:\2 курс ИСП2131\Мамадов Мубориз\ClassroomBooking\ClassroomBooking\bin\Debug\ClassroomBooking.pdb
+S:\2 курс ИСП2131\Мамадов Мубориз\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.csproj.AssemblyReference.cache
+S:\2 курс ИСП2131\Мамадов Мубориз\ClassroomBooking\ClassroomBooking\obj\Debug\MainWindow.g.cs
+S:\2 курс ИСП2131\Мамадов Мубориз\ClassroomBooking\ClassroomBooking\obj\Debug\App.g.cs
+S:\2 курс ИСП2131\Мамадов Мубориз\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking_MarkupCompile.cache
+S:\2 курс ИСП2131\Мамадов Мубориз\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking_MarkupCompile.lref
+S:\2 курс ИСП2131\Мамадов Мубориз\ClassroomBooking\ClassroomBooking\obj\Debug\MainWindow.baml
+S:\2 курс ИСП2131\Мамадов Мубориз\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.g.resources
+S:\2 курс ИСП2131\Мамадов Мубориз\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.Properties.Resources.resources
+S:\2 курс ИСП2131\Мамадов Мубориз\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.csproj.GenerateResource.cache
+S:\2 курс ИСП2131\Мамадов Мубориз\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.csproj.CoreCompileInputs.cache
+S:\2 курс ИСП2131\Мамадов Мубориз\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.exe
+S:\2 курс ИСП2131\Мамадов Мубориз\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.pdb
+C:\Users\afeaa\Desktop\ClassroomBooking\ClassroomBooking\bin\Debug\ClassroomBooking.exe.config
+C:\Users\afeaa\Desktop\ClassroomBooking\ClassroomBooking\bin\Debug\ClassroomBooking.exe
+C:\Users\afeaa\Desktop\ClassroomBooking\ClassroomBooking\bin\Debug\ClassroomBooking.pdb
+C:\Users\afeaa\Desktop\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.csproj.AssemblyReference.cache
+C:\Users\afeaa\Desktop\ClassroomBooking\ClassroomBooking\obj\Debug\MainWindow.g.cs
+C:\Users\afeaa\Desktop\ClassroomBooking\ClassroomBooking\obj\Debug\App.g.cs
+C:\Users\afeaa\Desktop\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking_MarkupCompile.cache
+C:\Users\afeaa\Desktop\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking_MarkupCompile.lref
+C:\Users\afeaa\Desktop\ClassroomBooking\ClassroomBooking\obj\Debug\MainWindow.baml
+C:\Users\afeaa\Desktop\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.g.resources
+C:\Users\afeaa\Desktop\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.Properties.Resources.resources
+C:\Users\afeaa\Desktop\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.csproj.GenerateResource.cache
+C:\Users\afeaa\Desktop\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.csproj.CoreCompileInputs.cache
+C:\Users\afeaa\Desktop\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.exe
+C:\Users\afeaa\Desktop\ClassroomBooking\ClassroomBooking\obj\Debug\ClassroomBooking.pdb
+C:\Users\afeaa\Desktop\ClassroomBooking\ClassroomBooking\bin\Debug\appsettings.json
